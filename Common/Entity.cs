@@ -1,5 +1,5 @@
-using Platform.BuildingBlocks.DateTimes;
-namespace Platform.Domain.Common
+using BuildingBlocks.DateTimes;
+namespace Domain.Common
 {
     public abstract class Entity
     {

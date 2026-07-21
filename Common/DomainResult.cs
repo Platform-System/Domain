@@ -1,4 +1,4 @@
-namespace Platform.Domain.Common
+namespace Domain.Common
 {
     public class DomainResult
     {

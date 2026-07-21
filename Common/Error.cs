@@ -1,4 +1,4 @@
-namespace Platform.Domain.Common
+namespace Domain.Common
 {
     public record Error(string Code, string Message)
     {

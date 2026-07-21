@@ -1,6 +1,6 @@
-using Platform.Domain.Abstractions;
+using Domain.Abstractions;
 
-namespace Platform.Domain.Common
+namespace Domain.Common
 {
     public abstract class AggregateRoot : Entity
     {
